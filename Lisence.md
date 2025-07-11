@@ -2,14 +2,14 @@
 
 **Nome do Projeto:** Conecta Vidas  
 **Evento de Origem:** Hackathon UniFG 2025  
-**Idealizador:** Luiz Gustavo Guedes  
+**Idealizador:** José Gabriel Gouveia  
 **Status do Projeto:** Open Source com direitos reservados
 
 ---
 
 ## 🛡 Direitos Autorais
 
-O projeto **Conecta Vidas** foi idealizado e desenvolvido por Luiz Gustavo Guedes e equipe durante o Hackathon da UniFG, sendo reconhecido como **Melhor Ideia Validada**.  
+O projeto **Conecta Vidas** foi idealizado e desenvolvido por José Gabriel Gouveia e equipe durante o Hackathon da UniFG, sendo reconhecido como **Melhor Ideia Validada**.  
 Todos os elementos do projeto – ideia central, identidade visual, fluxo de navegação e abordagem social – estão protegidos por **direitos autorais**.
 
 - A **propriedade intelectual da ideia e proposta original** permanece com o autor e os coautores.
@@ -31,5 +31,5 @@ Este repositório é licenciado sob a [MIT License](https://opensource.org/licen
 ## 📩 Contato
 
 Para parcerias, uso institucional, comercial ou educacional do projeto, entre em contato:  
-📧 guedesluizgustavo4@gmail.com  
-🔗 https://github.com/LuizG-G/Conecta-Vidas
+📧 gabrielgouv2609@gmail.com  
+🔗https://github.com/josegabrielgou/Conecta-Vidas
