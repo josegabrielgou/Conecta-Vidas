@@ -32,7 +32,6 @@ Imigrantes e refugiados em situação de vulnerabilidade social, especialmente r
 ## 🛠️ Tecnologias utilizadas
 
 - [Figma](https://www.figma.com) – Prototipagem da interface
-- [Canva](https://www.canva.com) – Slides de apresentação
 
 ## 📎 Anexos
 
